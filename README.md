@@ -1,4 +1,4 @@
-#Tech Industry Sentiment Analysis
+# Tech Industry Sentiment Analysis
 ORIE 4741 Project
 
 Dana Chernysheva (djc464), Ying Guan (yg532), Ziyue Su (zs366)
